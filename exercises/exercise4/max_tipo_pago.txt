@@ -1,0 +1,8 @@
+mastercard	3159357
+paypal	238229
+efectivo	4017672
+cash	3061117
+transferencia	831882
+metalico	1726666
+visa	4230923
+bizum	2296649

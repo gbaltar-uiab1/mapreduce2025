@@ -1,0 +1,20 @@
+Carballo	3141.78
+Naron	3140.12
+Ribeira	3143.07
+Monforte	3142.28
+Foz	3139.05
+Lugo	3142.35
+Marin	3136.8
+Santiago	3137.66
+A Corunha	3140.78
+Vigo	3142.62
+Ferrol	3148.7
+Mondonhedo	3145.92
+Oleiros	3143.94
+Pontevedra	3144.2
+Ourense	3140.54
+Sarria	3135.64
+Cangas	3143.1
+Burela	3142.55
+Arteixo	3143.16
+Chantada	3144.12

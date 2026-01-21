@@ -1,0 +1,12 @@
+2021-11-30 12:48	A Corunha	Calzado	108.34	bizum
+2021-07-23 15:55	Oleiros	Jardineria	19.27	visa
+2020-02-01 13:00	Santiago	Mascotas	56.24	visa
+2022-06-02 16:54	Marin	Calzado	46.4	bizum
+2021-10-27 12:27	Foz	Bebes	92.45	metalico	EXTRA_FIELD
+2023-07-29 13:45	Burela	Ferreteria	83.62	mastercard
+2022-08-15 14:01	Cangas	Jardineria	81.29	efectivo
+2022-02-09 14:23	Arteixo	Moda mujer	118.89	bizum
+2021-10-29 14:20	Ribeira	Moda mujer	26.99	cash
+2022-07-18 18:20	Burela	Musica	78.51	efectivo
+2022-07-18 18:21	Cangas	Bebes	aspa	cash
+
